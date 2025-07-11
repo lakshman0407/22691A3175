@@ -1,1 +1,9 @@
+Received Details:
 
+{'email': '22691a3175@mits.ac.in', 'name': 'lakshman patti', 'rollNo': '22691a3175', 'accessCode': 'caVvNH', 'clientID': '6b4d42e2-7107-40ce-8a71-71b42e7c5571', 'clientSecret': 'KQBwWcqmURwQMUAG'}
+
+Received Token:
+
+Response: {"token_type":"Bearer",
+          "access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiIyMjY5MWEzMTc1QG1pdHMuYWMuaW4iLCJleHAiOjE3NTIyMTQ0MzAsImlhdCI6MTc1MjIxMzUzMCwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6ImRlOGE2NjkzLTE5ZTQtNDEwZS1hNTNiLTM1N2E1NmQ5NzE4MSIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6Imxha3NobWFuIHBhdHRpIiwic3ViIjoiNmI0ZDQyZTItNzEwNy00MGNlLThhNzEtNzFiNDJlN2M1NTcxIn0sImVtYWlsIjoiMjI2OTFhMzE3NUBtaXRzLmFjLmluIiwibmFtZSI6Imxha3NobWFuIHBhdHRpIiwicm9sbE5vIjoiMjI2OTFhMzE3NSIsImFjY2Vzc0NvZGUiOiJjYVZ2TkgiLCJjbGllbnRJRCI6IjZiNGQ0MmUyLTcxMDctNDBjZS04YTcxLTcxYjQyZTdjNTU3MSIsImNsaWVudFNlY3JldCI6IktRQndXY3FtVVJ3UU1VQUcifQ.ov5tVNynrT-l6UQ43AS0-t6bRptODoVqss216bX9gqc",
+          "expires_in":1752214430}
